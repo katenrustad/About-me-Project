@@ -1,6 +1,7 @@
 :root {
   --primary-color: #1d7765;
   --secondary-color: #636464;
+  --third-color: #d6e0e0;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
@@ -102,7 +103,7 @@ p {
   color: var(--secondary-color);
 }
 .hero {
-  background: var(--secondary-color);
+  background: var(--third-color);
   text-align: center;
   padding: 160px 20px;
 }
